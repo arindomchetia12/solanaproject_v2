@@ -1,0 +1,26 @@
+{
+  "name": "solanaproject_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arindomchetia12/solanaproject_v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/arindomchetia12/solanaproject_v2/issues"
+  },
+  "homepage": "https://github.com/arindomchetia12/solanaproject_v2#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "dotenv": "^17.4.2",
+    "node-fetch": "^3.3.2"
+  }
+}
